@@ -17,6 +17,8 @@
 
 <img alt="SilvenLEAF's GitHub Stats" src="https://github-readme-stats-git-master.silvenleaf.vercel.app/api?username=AKG1301&show_icons=true&hide_border=true" />
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <!--
 **AKG1301/AKG1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
