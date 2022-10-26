@@ -1,5 +1,10 @@
 ### Hi there 👋
 [![@akg's Holopin board](https://holopin.me/akg)](https://holopin.io/@akg)
+### Connect with me:
+
+[<img width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **AKG1301/AKG1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
