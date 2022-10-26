@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🍁 I'm  Abhinav K Gupta and I'm insanely passionate about all things JavaScript.  I work hard.  I care about writing clean code and I genuinely love to learn. I love coding, esp BackEND programming.
+🍁 I'm  Abhinav K Gupta and I'm insanely passionate about all things **JavaScript, C++, Python**.  I work hard.  I care about writing clean code and I genuinely love to learn. I love coding, esp BackEND programming.
 
 
 #
