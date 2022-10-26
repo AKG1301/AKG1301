@@ -2,6 +2,11 @@
 
 🍁 I'm  Abhinav K Gupta and I'm insanely passionate about all things **JavaScript, C++, Python**.  I work hard.  I care about writing clean code and I genuinely love to learn. I love coding, esp BackEND programming.
 
+<p align="center">
+    <img src="assets/img/hacktoberfest-logo.svg" alt="Hacktoberfest Logo" width="auto" height="100">
+    <h2 align="center">Hacktoberfest</h2>
+
+
 # [<img width="26px" alt="Hactoberfest" src="https://github.com/mmuhamadamirzaidi/Hacktoberfest/blob/hacktober-2020/assets/img/hacktoberfest-logo.svg" />](https://hacktoberfest.com/) _Hactoberfest_
 
 [![@akg's Holopin board](https://holopin.me/akg)](https://holopin.io/@akg)
