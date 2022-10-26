@@ -5,9 +5,7 @@
 <p align="center">
     <img alt="Hactoberfest" src="https://github.com/mmuhamadamirzaidi/Hacktoberfest/blob/hacktober-2020/assets/img/hacktoberfest-logo.svg"width="auto" height="100" />
     <h2 align="center">Hacktoberfest</h2>
-
-
-# [<img width="26px" alt="Hactoberfest" src="https://github.com/mmuhamadamirzaidi/Hacktoberfest/blob/hacktober-2020/assets/img/hacktoberfest-logo.svg" />](https://hacktoberfest.com/) _Hactoberfest_
+    
 
 [![@akg's Holopin board](https://holopin.me/akg)](https://holopin.io/@akg)
 
