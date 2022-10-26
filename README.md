@@ -2,7 +2,7 @@
 [![@akg's Holopin board](https://holopin.me/akg)](https://holopin.io/@akg)
 ### Connect with me:
 
-[<img width="26px" alt="abhinav-k-gupta-0948b2183 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://in.linkedin.com/in/abhinav-k-gupta-0948b2183)]
+[<img width="26px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://in.linkedin.com/in/abhinav-k-gupta-0948b2183)]
 
 
 <!--
