@@ -10,8 +10,7 @@
 ## Connect with me:
 
 [<img width="26px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://in.linkedin.com/in/abhinav-k-gupta-0948b2183)
-
-
+&nbsp;
 [<img width="26px" alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/AKG1301)
 
 ## GitHub Stats
