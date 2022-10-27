@@ -4,9 +4,10 @@
 <hr />
 
 <p align="center">
-    [<img alt="Hactoberfest" src="https://github.com/mmuhamadamirzaidi/Hacktoberfest/blob/hacktober-2020/assets/img/hacktoberfest-logo.svg" height="100" />](https://hacktoberfest.com/)
+    <img alt="Hactoberfest" src="https://github.com/mmuhamadamirzaidi/Hacktoberfest/blob/hacktober-2020/assets/img/hacktoberfest-logo.svg" height="100" />
     <h2 align="center">Hacktoberfest</h2>
-    
+
+
 [![@akg's Holopin board](https://holopin.me/akg)](https://holopin.io/@akg)
 
 ## Connect with me:
